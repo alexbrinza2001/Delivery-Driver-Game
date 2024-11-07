@@ -1,6 +1,6 @@
 # Delivery Driver Game
- My first game
-
+ <h2>A 2D game in which you drive a car in order to deliver multiple packages.
+<p></p>
 Game mechanics:
 
 - Driving the car forwards and backwards
@@ -9,4 +9,4 @@ Game mechanics:
 - Decrease speed when bumping
 - Pick up packages when driving over them
 - Deliver package to delivery spot
-- Change color when collecting and dropping a package
+- Change color when collecting and dropping a package</h2>
